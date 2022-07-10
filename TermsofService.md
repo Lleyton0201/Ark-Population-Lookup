@@ -20,3 +20,5 @@ __You Must Not:__
 
 __________________________________________________
 This Agreement shall begin on the date of `7/10/2022` and takes affect when the application is invited to a discord server.
+
+Any questions? [Join Our Support Server](https://discord.gg/nCuavQDMFh)
