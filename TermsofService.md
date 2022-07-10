@@ -4,19 +4,9 @@ The terms of service apply to everyone using the application ("Bot"). This Bot i
 
 ## Use of Service
 
-In using the application ("Bot") you agree to follow [Discords Terms Of Service](https://discord.com/terms). While using the application you also agree to follow ARK: Survivial's Terms of Service with the information you get from this application.
+While using our application, you must follow our terms of service. In use, you must follow [Discord's terms of service](https://discord.com/terms), as well as agree to not redistribute animations, logos, or design of our bot for selling. 
 
-## License
-__You Must Not:__
-
--Sell use of Ark Population Lookup
-
--Republish material from Ark Population Lookup
-
--Redistribute information from Ark Population Lookup
-
--Copy the applications logo for the use of sale or redistribuation
-
+The bot installed is accessible to all users of the Discord platform.
 
 __________________________________________________
 This Agreement shall begin on the date of `7/10/2022` and takes affect when the application is invited to a discord server.
