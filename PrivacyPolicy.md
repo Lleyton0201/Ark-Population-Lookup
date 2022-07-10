@@ -8,7 +8,7 @@ Access to Data is only permitted to Bot's developers, and only in the scope requ
 Data is stored in a SQlite3 database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application and through our [Support Server](https://discord.gg/nCuavQDMFh).
 
 ## User Rights
-At any time, you have the right to request the deletion of your data or to view the Data pertaining to your Discord account. You may submit a request through the [Support Server](https://discord.gg/nCuavQDMFh). You have the right to request the removal of relevant Data.
+At any time, you have the right to request the deletion of your data or to view the Data pertaining to your Discord account. You may submit a request through the [Support Server](https://discord.gg/nCuavQDMFh) or by direct messaging me (@Lleytonv2#3217). You have the right to request the removal of relevant Data.
 
 ## Underage Users
 The use of the Bot is not permitted for minors under the age of 13, or under the age of legal consent for their country. This is in compliance with the [Discord Terms of Service](https://discord.com/terms). No information will be knowingly stored from an underage user. If it is found out that a user is underage we will take all necessary action to delete the stored data.
