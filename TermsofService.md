@@ -4,7 +4,7 @@ The terms of service apply to everyone using the application ("Bot"). This Bot i
 
 ## Use of Service
 
-While using our application, you must follow our terms of service. In use, you must follow [Discord's terms of service](https://discord.com/terms), as well as agree to **not redistribute animations, logos, or design of our bot for selling**. 
+While using our application, you must follow our terms of service. In use, you must follow [Discord's terms of service](https://discord.com/terms), as well as agree to **not redistribute animations, logos, or design of our bot for selling**. We also hold the right to blacklist users from using Ark Population Lookup's commands, this can happen for any reason we find credible. 
 
 The bot installed is accessible to all users of the Discord platform.
 
